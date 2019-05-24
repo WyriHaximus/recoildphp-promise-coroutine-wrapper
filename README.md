@@ -1,4 +1,4 @@
-# Pool wyrihaximus/recoil-queue-caller
+# A simple API around WyriHaximus/recoil-queue-caller(-pool).
 
 [![Build Status](https://travis-ci.com/WyriHaximus/recoilphp-promise-coroutine-wrapper.svg?branch=master)](https://travis-ci.com/WyriHaximus/recoilphp-promise-coroutine-wrapper)
 [![Latest Stable Version](https://poser.pugx.org/WyriHaximus/recoil-promise-coroutine-wrapper/v/stable.png)](https://packagist.org/packages/WyriHaximus/recoil-promise-coroutine-wrapper)
@@ -6,8 +6,6 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/WyriHaximus/recoilphp-promise-coroutine-wrapper/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/WyriHaximus/recoilphp-promise-coroutine-wrapper/?branch=master)
 [![License](https://poser.pugx.org/WyriHaximus/recoil-promise-coroutine-wrapper/license.png)](https://packagist.org/packages/WyriHaximus/recoil-promise-coroutine-wrapper)
 [![PHP 7 ready](http://php7ready.timesplinter.ch/WyriHaximus/reactphp-http-middleware-clear-body/badge.svg)](https://travis-ci.org/WyriHaximus/reactphp-http-middleware-clear-body)
-
-A simple API around WyriHaximus/recoil-queue-caller(-pool).
 
 # Install
 
